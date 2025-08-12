@@ -18,9 +18,6 @@ options = "-sV -sC scan_results"
 
 # --- Create the scanner instance --- 
 scanner = nmap.PortScanner()
-
-
-                                 
 scanner.scan(target, arguments=options)
 
 # --- Process results ---
