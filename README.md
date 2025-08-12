@@ -15,7 +15,7 @@ This port scanner attempts to establish TCP connection to the target IP on a ran
 3. The script will scan the specified IP address for open ports within the defined range and display the results.
 
 ## Screenshots
-![Port Scanner Output](Output_Screenshot/output-screenshot.png)
+![Port Scanner Output](Output%20Screeshot/output-screenshot.png)
 
 The output shows the port scanner script running against a target IP address. It lists all open TCP ports found within the scanned port range, showing active network services on these ports.
 
